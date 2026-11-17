@@ -635,7 +635,7 @@ export default {
 
           this.nextTrial()
 
-        }, 10000)
+        }, 15000)
 
     },
 
