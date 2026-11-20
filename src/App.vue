@@ -171,6 +171,7 @@ export default {
       totalTrials: 0,
       participantID: '',
       experimentStartTime: null,
+      experimentStartPerf: null,
       experimentDuration: '',
 
       // ==================================================
@@ -211,6 +212,8 @@ export default {
   mounted() {
 
   this.experimentStartTime = Date.now()
+
+  this.experimentStartPerf = performance.now()
 
   window.addEventListener('keydown', this.handleEscapeKey)
   },
@@ -729,6 +732,9 @@ export default {
         Date.now() -
         this.experimentStartTime
 
+      const durationPerfMs =
+        performance.now() - this.experimentStartPerf
+
       this.experimentDuration =
         this.formatDuration(
           durationMs
@@ -818,8 +824,11 @@ export default {
       experimentDuration:
         this.experimentDuration,
 
-        experimentDurationMs:
-        durationMs
+      experimentDurationMs:
+        durationMs,
+      
+      experimentDurationPerfMs:
+        Math.round(durationPerfMs)
 
     })
 
