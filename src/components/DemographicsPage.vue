@@ -213,7 +213,9 @@ PLEASE ADD HERE OTHER MODELS THAT ARE USED WHEN DEVELPING THIS CODE FURTHER:
 
     <!-- Continue button -->
 
-    <button @click="submit">
+    <button 
+    @click="submit"
+    :disabled="isSubmitting">
       Weiter
     </button>
 
@@ -226,6 +228,7 @@ export default {
 
   data() {
     return {
+      isSubmitting: false,
       dialectChoice: '',
       federalState: '',
       errorMessage: '',
@@ -239,6 +242,16 @@ export default {
   methods: {
 
     submit() {
+
+      //=====================================
+      // PREVENT DOUBLE SUBMISSION
+      //================================
+
+      if (this.isSubmitting) {
+        return
+      }
+
+      this.isSubmitting = true
 
       //========================================
       //Checking for mandatory fields - currently not needed, therefore as comment

@@ -173,6 +173,7 @@ export default {
       experimentStartTime: null,
       experimentStartPerf: null,
       experimentDuration: '',
+      isSubmitting: false,
 
       // ==================================================
       // COMPREHENSION TRIALS
@@ -756,11 +757,27 @@ export default {
     async saveDemographics(data) {
 
       // ------------------------------------------------
+      // PREVENT DOUBLE SUBMISSION
+      // ------------------------------------------------
+
+        if (this.isSubmitting) {
+          console.warn(
+            'Doppelte Übermittlung verhindert!'
+          )
+          return
+        }
+
+        this.isSubmitting = true
+
+      // ------------------------------------------------
       // Time of whole experiment
       // ------------------------------------------------
 
       const durationMs =
         Date.now() - this.experimentStartTime
+
+      const durationPerfMs =
+        performance.now() - this.experimentStartPerf
 
       this.experimentDuration =
         this.formatDuration(durationMs)
