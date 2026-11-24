@@ -13,11 +13,11 @@ PLEASE ADD HERE OTHER MODELS THAT ARE USED WHEN DEVELPING THIS CODE FURTHER:
     <h1>Instruktionen</h1>
 
     <p>
-      Im Folgenden werden Sie Äußerungen von zwei Sprecherinnen oder Sprechern sehen. Lesen Sie sich die Äußerungen aufmerksam durch. 
+      Im Folgenden werden Sie Äußerungspaare von zwei Personen (Person A und Person B) sehen. Lesen Sie sich die Äußerungen aufmerksam durch. 
     </p>
 
     <p>
-    Ihre Aufgabe ist es, die Äußerungen dahingehend zu bewerten, wie gut oder schlecht Sie diese finden. Sie bekommen dafür eine Skala angezeigt. Dabei gibt es folgende Werte: 5 (sehr gut) - 4 - 3 - 2 - 1 (sehr schlecht). Sie müssen die entsprechende Zahl auf der Skala anklicken (entweder mit einer Maus oder mit Hilfe eines Touchpads, wenn Sie einen Laptop verwenden). Antworten Sie bitte spontan und ohne lange nachzudenken. Sie haben insgesamt 15 Sekunden Zeit, um eine Antwort anzuklicken. Haben Sie eine Antwort angeklickt, drücken Sie bitte auf die „Weiter“-Schaltfläche, um zum nächsten Durchgang zu gelangen. Sollten die 15 Sekunden ablaufen, ohne dass Sie eine Antwort angeklickt haben, wird Ihnen automatisch der nächste Durchgang präsentiert. 
+    Ihre Aufgabe ist es, zu bewerten, wie gut oder schlecht die Äußerung von Person B als Erwiderung auf die Äußerung von Person A passt. Sie bekommen dafür eine Skala angezeigt. Dabei gibt es folgende Werte: 5 (sehr gut) - 4 - 3 - 2 - 1 (sehr schlecht). Sie müssen die entsprechende Zahl auf der Skala anklicken (entweder mit einer Maus oder mit Hilfe eines Touchpads, wenn Sie einen Laptop verwenden). Antworten Sie bitte spontan und ohne lange nachzudenken. Sie haben insgesamt 15 Sekunden Zeit, um eine Antwort anzuklicken. Haben Sie eine Antwort angeklickt, drücken Sie bitte auf die „Weiter“-Schaltfläche, um zum nächsten Durchgang zu gelangen. Sollten die 15 Sekunden ablaufen, ohne dass Sie eine Antwort angeklickt haben, wird Ihnen automatisch der nächste Durchgang präsentiert. 
     </p>
 
     <p>
