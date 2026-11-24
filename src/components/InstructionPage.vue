@@ -17,11 +17,11 @@ PLEASE ADD HERE OTHER MODELS THAT ARE USED WHEN DEVELPING THIS CODE FURTHER:
     </p>
 
     <p>
-    Ihre Aufgabe ist es, die Äußerungen dahingehend zu bewerten, wie gut oder schlecht Sie diese finden. Sie bekommen dafür eine Skala angezeigt. Dabei gibt es folgende Werte: 5 (sehr gut) - 4 - 3 - 2 - 1 (sehr schlecht). Sie müssen die entsprechende Zahl auf der Skala anklicken (entweder mit einer Maus oder mit Hilfe eines Touchpads, wenn Sie einen Laptop verwenden). Antworten Sie bitte spontan und ohne lange nachzudenken. Sie haben insgesamt 10 Sekunden Zeit, um eine Antwort anzuklicken. Haben Sie eine Antwort angeklickt, drücken Sie bitte auf die „Weiter“-Schaltfläche, um zum nächsten Durchgang zu gelangen. Sollten die 10 Sekunden ablaufen, ohne dass Sie eine Antwort angeklickt haben, wird Ihnen automatisch der nächste Durchgang präsentiert. 
+    Ihre Aufgabe ist es, die Äußerungen dahingehend zu bewerten, wie gut oder schlecht Sie diese finden. Sie bekommen dafür eine Skala angezeigt. Dabei gibt es folgende Werte: 5 (sehr gut) - 4 - 3 - 2 - 1 (sehr schlecht). Sie müssen die entsprechende Zahl auf der Skala anklicken (entweder mit einer Maus oder mit Hilfe eines Touchpads, wenn Sie einen Laptop verwenden). Antworten Sie bitte spontan und ohne lange nachzudenken. Sie haben insgesamt 15 Sekunden Zeit, um eine Antwort anzuklicken. Haben Sie eine Antwort angeklickt, drücken Sie bitte auf die „Weiter“-Schaltfläche, um zum nächsten Durchgang zu gelangen. Sollten die 15 Sekunden ablaufen, ohne dass Sie eine Antwort angeklickt haben, wird Ihnen automatisch der nächste Durchgang präsentiert. 
     </p>
 
     <p>
-    Zudem enthalten einige Durchgänge eine Verständnisfrage, um die Aufmerksamkeit zu überprüfen. Bitte beantworten Sie diese Verständnisfragen auf Basis des zuvor gelesenen Inhalts der beiden Äußerungen. Auch hierfür haben sie jeweils 10 Sekunden Zeit. 
+    Zudem enthalten einige Durchgänge eine Verständnisfrage, um die Aufmerksamkeit zu überprüfen. Bitte beantworten Sie diese Verständnisfragen auf Basis des zuvor gelesenen Inhalts der beiden Äußerungen. Auch hierfür haben sie jeweils 15 Sekunden Zeit. 
     </p>
 
     <p>
@@ -29,7 +29,7 @@ PLEASE ADD HERE OTHER MODELS THAT ARE USED WHEN DEVELPING THIS CODE FURTHER:
     </p>
 
     <p>
-    Das Experiment dauert ca. 15 Minuten. 
+    Das Experiment dauert ca. 25 Minuten. 
     </p>
 
     <p> 

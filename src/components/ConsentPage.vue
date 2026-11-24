@@ -4,7 +4,7 @@
 
     <p>
       Bitte lesen Sie die folgenden Punkte aufmerksam durch
-      und bestätigen Sie jeden einzelnen Punkt.
+      und bestätigen Sie jeden einzelnen Punkt, indem Sie auf das entsprechende Kästchen klicken. 
     </p>
 
     <div class="consent-list">
